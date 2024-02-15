@@ -1,0 +1,2 @@
+Player provides all of the tools for the human and computer classes to function while handsign provides the rules of the game. 
+Playable provides the back end of the game which RockPaperScissors uses for the logic of the game.
